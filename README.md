@@ -1,1 +1,0 @@
-# arkadag-cat
